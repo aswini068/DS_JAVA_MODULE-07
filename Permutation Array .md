@@ -17,10 +17,7 @@ The task is to return the maximum size among all such sets.
 
 ## Program:
 ```
-/*
-program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: KAVIYA SNEKA M
-RegisterNumber:  212223040091
+
 */
 import java.util.Scanner;
 
