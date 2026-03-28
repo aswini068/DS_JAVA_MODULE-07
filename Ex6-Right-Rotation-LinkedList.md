@@ -16,9 +16,6 @@ Display the rotated linked list.
 ## Program:
 ```
 /*
-Program to  Right Rotation LinkedList
-Developed by: KAVIYA SNEKA M
-RegisterNumber: 212223040091
 
 import java.util.Scanner;
 
